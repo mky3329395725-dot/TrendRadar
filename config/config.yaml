@@ -100,15 +100,6 @@ platforms:
   # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
   
-  # === 综合新闻媒体类 ===
-  # - id: "toutiao"
-  #   name: "今日头条"
-  # - id: "baidu"
-  #   name: "百度热搜"
-  # - id: "thepaper"
-  #   name: "澎湃新闻"
-  # - id: "ifeng"
-  #   name: "凤凰网"
   - id: "cankaoxiaoxi"
     name: "参考消息"
   - id: "sputniknewscn"
@@ -117,9 +108,7 @@ platforms:
     name: "联合早报"
   - id: "mktnews"
     name: "MKT新闻"
-  # - id: "kaopu"
-  #   name: "靠谱新闻"
-  
+
   # === 社交/短视频/娱乐类 ===
   - id: "weibo"
     name: "微博"
@@ -148,27 +137,3 @@ platforms:
   - id: "v2ex"
     name: "V2EX"
   - id: "nowcoder"
-  #   name: "牛客网"
-  # - id: "pcbeta"
-  #   name: "远景论坛"
-  # - id: "sspai"
-  #   name: "少数派"
-  # - id: "producthunt"
-  #   name: "ProductHunt"
-
-
-    id: "tencent-hot"
-    name: "腾讯新闻 综合早报"
-    
-    id: "cls-telegraph"
-    name: "财联社 电报"
-    
-    id: "cls-depth"
-    name: "财联社 深度"
-    
-    id: "fastbull-express"
-    name: "法布财经 快讯"
-    
-    id: "fastbull-news"
-    name: "法布财经 头条"
-
